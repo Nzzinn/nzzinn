@@ -1,10 +1,9 @@
-### Hi there 👋
+### Hello! My name is Nathan Ferreira 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working with Javascript, Typescript, NodeJs, AdonisJs
+- 🌱 I’m currently learning Typescript and Azure Cloud
 
 <div>
-  <a href="https://beacons.ai/nzzinn">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nzzinn&show_icons=true&theme=synthwave&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzzinn&layout=compact&langs_count=16&theme=synthwave"/>
 </div>
