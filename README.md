@@ -3,6 +3,12 @@
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 
+<div>
+  <a href="https://beacons.ai/nzzinn">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nzzinn&show_icons=true&theme=synthwave&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzzinn&layout=compact&langs_count=16&theme=synthwave"/>
+</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
