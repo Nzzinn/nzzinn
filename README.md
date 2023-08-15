@@ -1,7 +1,7 @@
 ### Hello! My name is Nathan Ferreira 👋
 
-- 🔭 I’m currently working with Javascript, Typescript, NodeJs, AdonisJs
-- 🌱 I’m currently learning Typescript and Azure Cloud
+- 🔭 I’m currently working with C#, Typescript, .NET, React Native, ASP.NET, Angular, Ionic.
+- 🌱 I’m currently learning C#, Typescript, .NET, React Native, ASP.NET.
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nzzinn&show_icons=true&theme=synthwave&count_private=true"/>
